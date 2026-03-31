@@ -57,7 +57,7 @@ export const DATA = {
       },
       X: {
         name: "Twitter",
-        url: "https://x.com/UraViva",
+        url: "https://x.com/UraViva_",
         icon: Icons.x,
         navbar: true,
       },
